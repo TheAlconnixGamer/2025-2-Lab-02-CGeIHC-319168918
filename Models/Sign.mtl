@@ -1,0 +1,14 @@
+# Blender 4.3.2 MTL File: 'Sign.blend'
+# www.blender.org
+
+newmtl Sign
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd wood-grain-texture-vector-authentic-textural-backdrop-featuring-natural_9923129.png
+map_Ns Textures/Sign_Roughness.png
+map_refl Textures/Sign_Metallic.png
+map_Bump -bm 1.000000 Textures/Sign_Normal.png
